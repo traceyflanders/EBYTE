@@ -3,7 +3,7 @@
   This example shows how to connect to an EBYTE transceiver
   using an Arduino Nano
 
-  This code for for the sender
+  This code for for the receiver
 
 
   connections
